@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+
+bot_sessions/*
+!bot_sessions/.gitignore
+
+# Ignorar el archivo google.jso
+google.json
+bot_sessions/

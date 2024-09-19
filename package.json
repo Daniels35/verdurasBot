@@ -1,0 +1,44 @@
+{
+    "name": "base-bailey-memory",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "prestart": "npx eslint . --no-ignore",
+        "pre-copy": "cd .. && npm run copy.lib base-baileys-memory",
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "keywords": [],
+    "dependencies": {
+        "@adiwajshing/baileys": "^5.0.0",
+        "@bot-whatsapp/bot": "latest",
+        "@bot-whatsapp/cli": "latest",
+        "@bot-whatsapp/database": "latest",
+        "@bot-whatsapp/portal": "latest",
+        "@bot-whatsapp/provider": "latest",
+        "@builderbot/bot": "^1.1.7",
+        "@builderbot/provider-baileys": "^1.1.7",
+        "@ffmpeg-installer/ffmpeg": "^1.1.0",
+        "@whiskeysockets/baileys": "6.5.0",
+        "axios": "^1.7.2",
+        "cache-manager": "5.2.4",
+        "crypto": "^1.0.1",
+        "dotenv": "^16.4.5",
+        "fluent-ffmpeg": "^2.1.3",
+        "fs": "^0.0.1-security",
+        "googleapis": "^140.0.1",
+        "luxon": "^3.4.4",
+        "openai": "^4.49.1",
+        "path": "^0.12.7",
+        "pdf-parse": "^1.1.1",
+        "wa-sticker-formatter": "4.4.4"
+    },
+    "devDependencies": {
+        "eslint": "^8.52.0",
+        "eslint-plugin-bot-whatsapp": "latest",
+        "nodemon": "^3.1.4"
+    },
+    "author": "",
+    "license": "ISC"
+}

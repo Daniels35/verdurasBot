@@ -1,0 +1,319 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573135804424@s.whatsapp.net',
+    fromMe: false,
+    id: '7C9500A2D346D6676E4094EA8FBA832B',
+    participant: undefined
+  },
+  messageTimestamp: 1726755423,
+  pushName: 'Daniel Díaz',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '573135804424'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573135804424@s.whatsapp.net',
+    fromMe: false,
+    id: '7C9500A2D346D6676E4094EA8FBA832B',
+    participant: undefined
+  },
+  messageTimestamp: 1726755423,
+  pushName: 'Daniel Díaz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Daniel Díaz',
+  body: 'Hola',
+  from: '573135804424'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573135804424@s.whatsapp.net',
+    fromMe: false,
+    id: '7C9500A2D346D6676E4094EA8FBA832B',
+    participant: undefined
+  },
+  messageTimestamp: 1726755424,
+  pushName: 'Daniel Díaz',
+  broadcast: false,
+  verifiedBizName: 'Daniel Díaz',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573135804424'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_93412b6f-dfee-4fdb-8675-59e16dbb7393',
+  keyword: 'key_545169f5-7062-49b8-a333-2fceb308146f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4a1aa79884fe07bcc2f3080ab05ced65'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_93412b6f-dfee-4fdb-8675-59e16dbb7393',
+  keyword: 'key_545169f5-7062-49b8-a333-2fceb308146f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4a1aa79884fe07bcc2f3080ab05ced65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573135804424@s.whatsapp.net',
+    fromMe: false,
+    id: '6D20A0FE06D43AFD2226D50671E05032',
+    participant: undefined
+  },
+  messageTimestamp: 1726755453,
+  pushName: 'Daniel Díaz',
+  broadcast: false,
+  message: Message {
+    conversation: 'Que productos tienen',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Daniel Díaz',
+  body: 'Que productos tienen',
+  from: '573135804424'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_93412b6f-dfee-4fdb-8675-59e16dbb7393',
+  keyword: 'key_545169f5-7062-49b8-a333-2fceb308146f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4a1aa79884fe07bcc2f3080ab05ced65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '429F411001F0FAF028F0000FD4D8A39B',
+    participant: undefined
+  },
+  messageTimestamp: 1726755560,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Agregar producto bananos con precio 5000',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Agregar producto bananos con precio 5000',
+  from: '573206449915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_93412b6f-dfee-4fdb-8675-59e16dbb7393',
+  keyword: 'key_545169f5-7062-49b8-a333-2fceb308146f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4a1aa79884fe07bcc2f3080ab05ced65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '7959569512F8111C3CDE21FEA1233978',
+    participant: undefined
+  },
+  messageTimestamp: 1726755561,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573206449915'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573135804424@s.whatsapp.net',
+    fromMe: false,
+    id: 'A9C5B064A330E2976765245C97BC8431',
+    participant: undefined
+  },
+  messageTimestamp: 1726755576,
+  pushName: 'Daniel Díaz',
+  broadcast: false,
+  message: Message {
+    conversation: 'Vuélveme a decir los productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Daniel Díaz',
+  body: 'Vuélveme a decir los productos',
+  from: '573135804424'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_93412b6f-dfee-4fdb-8675-59e16dbb7393',
+  keyword: 'key_545169f5-7062-49b8-a333-2fceb308146f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4a1aa79884fe07bcc2f3080ab05ced65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '17AD6E672CB8E87C35A6709CE068936C',
+    participant: undefined
+  },
+  messageTimestamp: 1726755624,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Dame la lista d productos',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame la lista d productos',
+  from: '573206449915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_93412b6f-dfee-4fdb-8675-59e16dbb7393',
+  keyword: 'key_545169f5-7062-49b8-a333-2fceb308146f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4a1aa79884fe07bcc2f3080ab05ced65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '966E1AC0ADF3646F707306994A5B4CAA',
+    participant: undefined
+  },
+  messageTimestamp: 1726755628,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573206449915'
+}
