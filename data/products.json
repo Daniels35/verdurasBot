@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Tomates",
+    "price": 4000
+  },
+  {
+    "id": 2,
+    "name": "Cebollas",
+    "price": 3000
+  },
+  {
+    "id": 3,
+    "name": "Zanahorias",
+    "price": 2000
+  },
+  {
+    "name": "papas",
+    "price": 3900,
+    "id": 4
+  },
+  {
+    "name": "cilantro",
+    "price": 1000,
+    "id": 5
+  },
+  {
+    "name": "Tomate de árbol",
+    "price": 4500,
+    "id": 6
+  },
+  {
+    "name": "Uvas",
+    "price": 4000,
+    "id": 7
+  }
+]
