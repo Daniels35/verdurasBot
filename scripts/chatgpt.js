@@ -6,7 +6,7 @@ const { getCurrentUserId } = require("../user/userContext");
 const openaiApiKey = process.env.OPENAI_API_KEY;
 
 // Definir números de teléfono de administradores
-const adminNumbers = ['573206449915', '573205040546'];
+const adminNumbers = ['573206449915', '573205040546', '573136433199'];
 
 // Verificar si el usuario es administrador
 const isAdmin = (userId) => adminNumbers.includes(userId);

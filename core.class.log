@@ -1,27 +1,31 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '573135804424@s.whatsapp.net',
+    remoteJid: '573206449915@s.whatsapp.net',
     fromMe: false,
-    id: '29537EF67BFEC82BF429540E88AB354D',
+    id: '6D89458BC4DE3B33ACB2A6D1B13F474C',
     participant: undefined
   },
-  messageTimestamp: 1726989699,
-  pushName: 'Daniel Díaz',
+  messageTimestamp: 1728492070,
+  pushName: 'Daniel Diaz',
   broadcast: false,
   message: Message {
-    conversation: 'Hola',
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Hola',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  verifiedBizName: 'Daniel Díaz',
   body: 'Hola',
-  from: '573135804424'
+  from: '573206449915'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_e62c1841-a93a-44ed-8dc6-11bc78f8642c',
-  keyword: 'key_a1ffeca4-3eac-4a37-9ff4-91d061a9443e',
+  ref: 'ans_464a9c8f-39c0-4b5c-9e5e-de618b93aee5',
+  keyword: 'key_aee53ed0-a05a-4a8c-a276-bc917207964c',
   answer: '__call_action__',
   options: {
     media: null,
@@ -35,32 +39,62 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'f08520f4e12de36274e5cd841aa70537'
+  refSerialize: '733efe3718cc7b0f9339bf4fb1ad61d5'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '573135804424@s.whatsapp.net',
+    remoteJid: '573206449915@s.whatsapp.net',
     fromMe: false,
-    id: '68146657BEA8E346DD7291F73E5AEFF3',
+    id: 'DA38291E1355DE0E3788FFC1B19C2283',
     participant: undefined
   },
-  messageTimestamp: 1726989711,
-  pushName: 'Daniel Díaz',
+  messageTimestamp: 1728492074,
+  pushName: 'Daniel Diaz',
   broadcast: false,
   message: Message {
-    conversation: 'Que eres',
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  verifiedBizName: 'Daniel Díaz',
-  body: 'Que eres',
-  from: '573135804424'
+  body: '',
+  from: '573206449915'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '69446E76FFF8BA8099B032DDBD2988E7',
+    participant: undefined
+  },
+  messageTimestamp: 1728492081,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Muéstrame los productos',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muéstrame los productos',
+  from: '573206449915'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_e62c1841-a93a-44ed-8dc6-11bc78f8642c',
-  keyword: 'key_a1ffeca4-3eac-4a37-9ff4-91d061a9443e',
+  ref: 'ans_464a9c8f-39c0-4b5c-9e5e-de618b93aee5',
+  keyword: 'key_aee53ed0-a05a-4a8c-a276-bc917207964c',
   answer: '__call_action__',
   options: {
     media: null,
@@ -74,5 +108,169 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'f08520f4e12de36274e5cd841aa70537'
+  refSerialize: '733efe3718cc7b0f9339bf4fb1ad61d5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '241A9BB369DD6630BADC4813CAB38173',
+    participant: undefined
+  },
+  messageTimestamp: 1728492084,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573206449915'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '3EBCCD40907B20CA35CD6D59D5C003DC',
+    participant: undefined
+  },
+  messageTimestamp: 1728492098,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Cambia cilantro 900',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cambia cilantro 900',
+  from: '573206449915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_464a9c8f-39c0-4b5c-9e5e-de618b93aee5',
+  keyword: 'key_aee53ed0-a05a-4a8c-a276-bc917207964c',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '733efe3718cc7b0f9339bf4fb1ad61d5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '42501168643958252CAE636BD500C1C6',
+    participant: undefined
+  },
+  messageTimestamp: 1728492101,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573206449915'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '7430BA6D7B4A1C1557B50F8D30464A22',
+    participant: undefined
+  },
+  messageTimestamp: 1728492109,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Muéstrame los productos',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muéstrame los productos',
+  from: '573206449915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_464a9c8f-39c0-4b5c-9e5e-de618b93aee5',
+  keyword: 'key_aee53ed0-a05a-4a8c-a276-bc917207964c',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '733efe3718cc7b0f9339bf4fb1ad61d5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573206449915@s.whatsapp.net',
+    fromMe: false,
+    id: '359BD854678E6DC8F7A9A76767099A6D',
+    participant: undefined
+  },
+  messageTimestamp: 1728492111,
+  pushName: 'Daniel Diaz',
+  broadcast: false,
+  message: Message {
+    protocolMessage: ProtocolMessage {
+      key: [MessageKey],
+      type: 4,
+      ephemeralExpiration: 86400,
+      ephemeralSettingTimestamp: [Long],
+      disappearingMode: [DisappearingMode]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573206449915'
 }
